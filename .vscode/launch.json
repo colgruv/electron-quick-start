@@ -18,7 +18,7 @@
             "env": {},
             "console": "internalConsole",
             "sourceMaps": false,
-            "outDir": null
+            "outFiles": []
         },
         {
             "name": "Attach",
@@ -28,7 +28,7 @@
             "address": "localhost",
             "restart": false,
             "sourceMaps": false,
-            "outDir": null,
+            "outFiles": [],
             "localRoot": "${workspaceRoot}",
             "remoteRoot": null
         }
